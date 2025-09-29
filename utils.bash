@@ -3,13 +3,15 @@
 ##
 ## author: Ian Kuvaldini github.com/kuvaldini
 ## distributed under MIT License, https://opensource.org/licenses/MIT
-## project_page: https://gitlab.com/kyb/autorsync
-## todo move to https://github.com/kuvaldini/utils.bash, include hooks.bash
+## project_page: https://gitlab.com/kuvaldini/utils.bash
+## todo move to https://github.com/kuvaldini/utils.bash
 ##
 
 ##
 ## DOWNLOAD:
-##   curl -L 'https://gitlab.com/snippets/1830548/raw?inline=false' -o utils.bash
+##   curl https://raw.githubusercontent.com/kuvaldini/utils.bash/main/utils.bash -LsSf
+##   curl https://gitlab.com/kuvaldini/utils.bash/-/raw/main/utils.bash -LsSf
+##   [deprecated] curl -L 'https://gitlab.com/snippets/1830548/raw?inline=false' -o utils.bash
 ## USAGE:
 ##   source utils.bash
 ##
